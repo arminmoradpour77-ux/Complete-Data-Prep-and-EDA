@@ -9,3 +9,6 @@ Clean and preprocess raw data
 Engineer features to improve data quality
 Perform descriptive statistics and EDA
 Visualize relationships, distributions, and trends
+
+
+I also need to mention that this was a final course project from Coursera.
